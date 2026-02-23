@@ -1,0 +1,1 @@
+Este repositorio contiene la implementación de un sistema de control de velocidad en lazo cerrado para un motor de CD. El proyecto utiliza el middleware ROS 2 Humble sobre Ubuntu 22.04 y destaca por el uso de parámetros dinámicos y procesamiento matemático eficiente con NumPy.
